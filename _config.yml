@@ -205,7 +205,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - about_einstein.md
   - bin
   - CONTRIBUTING.md
   - CUSTOMIZE.md
