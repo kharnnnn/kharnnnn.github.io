@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kharnnnn.github.io/sitemap.xml
+Sitemap: https://kharnnnn.github.ioal-folio//sitemap.xml
